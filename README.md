@@ -10,3 +10,6 @@
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 I write sometimes. Mostly about Tech and Personal Stories at https://blog.athulcyriac.co
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
