@@ -11,6 +11,7 @@
 
 I write sometimes. Mostly about Tech and Personal Stories at https://blog.athulcyriac.co
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 Python      11 hrs 36 mins ███████████▍░░░░░░░░░  54.5%
@@ -19,5 +20,4 @@ Go          2 hrs 42 mins  ██▋░░░░░░░░░░░░░░�
 HTML        38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
 Other       29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%
 ```
-
 <!--END_SECTION:waka-->
