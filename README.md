@@ -11,12 +11,10 @@
 
 I write sometimes. Mostly about Tech and Personal Stories at https://blog.athulcyriac.co
 
-<!--START_SECTION:waka-->
-    ```text
+<!--START_SECTION:waka-->```text
 Python      11 hrs 36 mins ███████████▍░░░░░░░░░  54.5%
 Markdown    5 hrs 30 mins  █████▍░░░░░░░░░░░░░░░  25.9%
 Go          2 hrs 42 mins  ██▋░░░░░░░░░░░░░░░░░░  12.7%
 HTML        38 mins        ▋░░░░░░░░░░░░░░░░░░░░   3.0%
 Other       29 mins        ▍░░░░░░░░░░░░░░░░░░░░   2.3%```
-
-    <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
