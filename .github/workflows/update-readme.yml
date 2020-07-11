@@ -12,7 +12,7 @@ on:
     - cron: '0 0 * * *'
 
 jobs:
-  update readme:
+  update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
