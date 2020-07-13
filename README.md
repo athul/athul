@@ -45,7 +45,8 @@ YAML        34 mins             █░░░░░░░░░░░░░░░
 | MeenHacks | CE Kidangoor | Lead Organizer | ❤️ | 
 | Hack from Home - MLH | Online | Hacker | Built [vett.space](https://vett.space) with [Subin](https://github.com/subins2000) |
 
-</details><details>
+</details>
+<details>
 <summary>Workshops & Talks List</summary>
 
 
@@ -61,6 +62,7 @@ YAML        34 mins             █░░░░░░░░░░░░░░░
 | HackCamp, Kochi | Introduction to GitHub | In Person|
 
 </details>
+
 --------
 
 <!--END_SECTION:table-->
