@@ -26,3 +26,5 @@ YAML        34 mins             █░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 -------
+<!--START_SECTION:table-->
+<!--END_SECTION:table-->
