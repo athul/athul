@@ -11,8 +11,6 @@
 - 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
-I write sometimes. Mostly about Tech and Personal Stories at https://blog.athulcyriac.co
-
 -------
 
 📊 **Weekly development breakdown**
@@ -26,6 +24,8 @@ YAML        34 mins             ░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 -------
+
+**Checkout my പട്ടിഷോ board**
 <!--START_SECTION:table-->
 <details>
 <summary>Hackathons List</summary>
