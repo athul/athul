@@ -61,11 +61,9 @@ JavaScript  20 mins             ░░░░░░░░░░░░░░░░
 | People In Tech - TinkerHub | AMA with CE | Online| 
 | HackCamp, Kochi | Introduction to GitHub | In Person|
 
-
-<a href="http://hits.dwyl.com/athul/athul"> <img src="http://hits.dwyl.com/athul/athul.svg"/></a>
 </details>
 
 --------
 
 <!--END_SECTION:table-->
-
+[![HitCount](http://hits.dwyl.com/athul/athul.svg)](http://hits.dwyl.com/athul/athul)
