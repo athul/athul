@@ -66,4 +66,3 @@ JavaScript  20 mins             ░░░░░░░░░░░░░░░░
 --------
 
 <!--END_SECTION:table-->
-[![HitCount](http://hits.dwyl.com/athul/athul.svg)](http://hits.dwyl.com/athul/athul)
