@@ -18,7 +18,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: athul/waka-readme@flag
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         
