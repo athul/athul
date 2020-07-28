@@ -61,6 +61,8 @@ JavaScript   1 min           ░░░░░░░░░░░░░░░░░
 | People In Tech - TinkerHub | AMA with CE | Online| 
 | HackCamp, Kochi | Introduction to GitHub | In Person|
 
+![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visits)
+
 </details>
 
 --------
