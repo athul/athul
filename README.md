@@ -26,6 +26,8 @@ Text       14 mins         ░░░░░░░░░░░░░░░░░�
 -------
 
 **Checkout my പട്ടിഷോ board**
+
+
 <!--START_SECTION:table-->
 <details>
 <summary>Hackathons List</summary>
@@ -60,11 +62,12 @@ Text       14 mins         ░░░░░░░░░░░░░░░░░�
 | Malabar institute of Technology, Kannur | Intro to GitHub | Online| 
 | People In Tech - TinkerHub | AMA with CE | Online| 
 | HackCamp, Kochi | Introduction to GitHub | In Person|
+| Amal Jyothi, Kanjirapalli | OpenSource & GitHub| Online|
 
 ![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visits)
 
 </details>
 
---------
-
 <!--END_SECTION:table-->
+
+--------
