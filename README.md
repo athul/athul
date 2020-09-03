@@ -63,6 +63,8 @@ JSON     18 mins         ▓░░░░░░░░░░░░░░░░░�
 | People In Tech - TinkerHub | AMA with CE | Online| 
 | HackCamp, Kochi | Introduction to GitHub | In Person|
 | Amal Jyothi, Kanjirapalli | OpenSource & GitHub| Online|
+| VJCET, Muvattupuzha | Git and GitHub(2 days) | Online |
+|MBCET, Thiruvanathapuram|Git and GitHub|Online|
 
 ![](https://komarev.com/ghpvc/?username=athul&color=green&style=flat-square&label=visits)
 
