@@ -16,7 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-
+- [FastAPI Auth + Login Page](https://blog.athulcyriac.xyz/fastapi-auth/)
+- [Indexed 🧠 and Fuzzy 🔍](https://blog.athulcyriac.xyz/zettel-search/)
+- [Link Preview Generator in Python](https://blog.athulcyriac.xyz/image-gen/)
+- [Telegram Bot with Adguard](https://blog.athulcyriac.xyz/adbot-tg/)
+- [Jiofi-CLI](https://blog.athulcyriac.xyz/jiofi/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
