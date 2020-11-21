@@ -14,3 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://blog.athulcyriac.xyz/rss.xml
+          gh_token: ${{ github.token }}
