@@ -1,4 +1,4 @@
-name: Update this repo's README
+name: Blog in Readme
 
 on:
   workflow_dispatch:
@@ -10,7 +10,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed-url: https://blog.athulcyriac.xyz/rss.xml
-          readme-section: posts
+          feed_list: https://blog.athulcyriac.xyz/rss.xml

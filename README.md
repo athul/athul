@@ -13,6 +13,13 @@
 
 -------
 
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+-------
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
@@ -23,12 +30,5 @@ Go         1 hr 33 mins    █▒░░░░░░░░░░░░░░░�
 Other      1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 <!--END_SECTION:waka-->
+
 -------
-
-**📝 Latest Blog Posts**
-
-<!--START_SECTION:posts-->
-
-<!--END_SECTION:posts-->
-
---------
