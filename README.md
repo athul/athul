@@ -16,11 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [HoppScotch Doc Generation, a breakdown](https://blog.athulcyriac.xyz/hopp-gen/)
 - [Desk Setup - 2020](https://blog.athulcyriac.xyz/desk-2020/)
 - [FastAPI Auth + Login Page](https://blog.athulcyriac.xyz/fastapi-auth/)
 - [Indexed 🧠 and Fuzzy 🔍](https://blog.athulcyriac.xyz/zettel-search/)
 - [Link Preview Generator in Python](https://blog.athulcyriac.xyz/image-gen/)
-- [Telegram Bot with Adguard](https://blog.athulcyriac.xyz/adbot-tg/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
