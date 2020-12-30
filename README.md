@@ -16,11 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [The 2020!](https://blog.athulcyriac.xyz/2020/)
 - [Harnessing Headers; Building a Custom Analytics Server](https://blog.athulcyriac.xyz/analytics_from_scratch/)
 - [HoppScotch Doc Generation, a breakdown](https://blog.athulcyriac.xyz/hopp-gen/)
 - [Desk Setup - 2020](https://blog.athulcyriac.xyz/desk-2020/)
 - [FastAPI Auth + Login Page](https://blog.athulcyriac.xyz/fastapi-auth/)
-- [Indexed 🧠 and Fuzzy 🔍](https://blog.athulcyriac.xyz/zettel-search/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
