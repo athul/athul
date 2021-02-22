@@ -28,7 +28,7 @@
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 mins          ███████████████████████▓░   94.63 % 
+
 ```
 <!--END_SECTION:waka-->
 
