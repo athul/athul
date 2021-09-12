@@ -16,11 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Coming Back to Pink Floyd](https://blog.athulcyriac.xyz/blog/pink-floyd/)
 - [The Intern](https://blog.athulcyriac.xyz/blog/frappe-internship/)
 - [Getting new Lobste.rs feed with Python and Telegram](https://blog.athulcyriac.xyz/blog/lobsters_feed/)
 - [The 2020!](https://blog.athulcyriac.xyz/blog/2020/)
 - [Harnessing Headers; Building a Custom Analytics Server](https://blog.athulcyriac.xyz/blog/analytics_from_scratch/)
-- [HoppScotch Doc Generation, a breakdown](https://blog.athulcyriac.xyz/blog/hopp-gen/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
