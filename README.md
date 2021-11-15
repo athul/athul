@@ -16,11 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Planets](https://blog.athulcyriac.xyz/blog/two-planets/)
-- [Of Wires and Solder](https://blog.athulcyriac.xyz/blog/macropad/)
-- [Coming Back to Pink Floyd](https://blog.athulcyriac.xyz/blog/pink-floyd/)
-- [The Intern](https://blog.athulcyriac.xyz/blog/frappe-internship/)
-- [Getting new Lobste.rs feed with Python and Telegram](https://blog.athulcyriac.xyz/blog/lobsters_feed/)
+- [Two Planets](https://blog.athulcyriac.in/blog/two-planets/)
+- [Of Wires and Solder](https://blog.athulcyriac.in/blog/macropad/)
+- [Coming Back to Pink Floyd](https://blog.athulcyriac.in/blog/pink-floyd/)
+- [The Intern](https://blog.athulcyriac.in/blog/frappe-internship/)
+- [Getting new Lobste.rs feed with Python and Telegram](https://blog.athulcyriac.in/blog/lobsters_feed/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
