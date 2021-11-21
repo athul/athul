@@ -16,11 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Bye K2](https://blog.athulcyriac.in/blog/bye-k2/)
 - [Two Planets](https://blog.athulcyriac.in/blog/two-planets/)
 - [Of Wires and Solder](https://blog.athulcyriac.in/blog/macropad/)
 - [Coming Back to Pink Floyd](https://blog.athulcyriac.in/blog/pink-floyd/)
 - [The Intern](https://blog.athulcyriac.in/blog/frappe-internship/)
-- [Getting new Lobste.rs feed with Python and Telegram](https://blog.athulcyriac.in/blog/lobsters_feed/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
