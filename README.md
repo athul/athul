@@ -16,11 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Eternal Sunshine](https://blog.athulcyriac.in/blog/college-trip/)
 - [The last 100 days](https://blog.athulcyriac.in/blog/final-year/)
 - [The Sunset Revelation](https://blog.athulcyriac.in/blog/philosphy-2/)
 - [Philosophy Athre Philosophy](https://blog.athulcyriac.in/blog/philosophies/)
 - [The Athul of 2021](https://blog.athulcyriac.in/blog/2021-me/)
-- [Bye K2](https://blog.athulcyriac.in/blog/bye-k2/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
