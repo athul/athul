@@ -29,8 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   9 mins          ████████████████████████▓   99.29 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Python   9 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
