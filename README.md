@@ -5,8 +5,8 @@
 </p>
 
 
-- 🔭 I’m currently working on **A Platform for Hackathons in Kerala**
-- 🌱 I’m currently learning **Go and Algorithms**
+- 🔭 I’m currently working at [Frappe](https://frappe.io) in the DevOps Team
+- 🌱 I’m currently learning more on Observability and better DevOps Practices
 - 💬 Ask me about **Go, Git and Python**
 - 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji
