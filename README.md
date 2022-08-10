@@ -29,7 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+HTML       58 mins         ███████████▒░░░░░░░░░░░░░   45.69 %
+CSS        33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+TOML       24 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+Markdown   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
