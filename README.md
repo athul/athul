@@ -16,11 +16,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [22 and Still Dumb!](https://blog.athulcyriac.in/blog/2022/)
 - [Eternal Sunshine](https://blog.athulcyriac.in/blog/college-trip/)
 - [The last 100 days](https://blog.athulcyriac.in/blog/final-year/)
 - [The Sunset Revelation](https://blog.athulcyriac.in/blog/philosphy-2/)
 - [Philosophy Athre Philosophy](https://blog.athulcyriac.in/blog/philosophies/)
-- [The Athul of 2021](https://blog.athulcyriac.in/blog/2021-me/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
