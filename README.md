@@ -5,8 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working at [Frappe](https://frappe.io) in the DevOps Team
-- 🌱 I’m currently learning more on Observability and better DevOps Practices
+- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
 - 💬 Ask me about **Go, Git and Python**
 - 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
 - ⚡ Fun fact: Big Fan of the :zap: emoji
