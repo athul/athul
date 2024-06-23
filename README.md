@@ -28,9 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       2 mins          ██████████████████░░░░░░░   71.59 %
-Rust       0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-Markdown   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
