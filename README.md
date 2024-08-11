@@ -28,8 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   4 mins          █████████████████████░░░░   83.58 %
-Go     0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
