@@ -28,9 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go     1 min           ██████████████▒░░░░░░░░░░   57.76 %
-YAML   0 secs          ████████░░░░░░░░░░░░░░░░░   31.68 %
-JSON   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
