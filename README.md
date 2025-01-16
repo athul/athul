@@ -28,11 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-gitconfig   18 mins         █████████████▓░░░░░░░░░░░   54.24 %
-HTML        6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
-XML         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Other       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
-Markdown    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
