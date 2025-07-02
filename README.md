@@ -28,10 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 32 mins    ████████████████▒░░░░░░░░   65.41 %
-JavaScript        43 mins         ███████▓░░░░░░░░░░░░░░░░░   31.05 %
-SQL               4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
