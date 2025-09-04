@@ -28,9 +28,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   1 hr 49 mins    ██████████████████████░░░   87.42 %
-Smarty      15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Terraform   31 mins         ████████████████▓░░░░░░░░   67.17 %
+Smarty      15 mins         ████████▒░░░░░░░░░░░░░░░░   32.83 %
 ```
 
 <!--END_SECTION:waka-->
