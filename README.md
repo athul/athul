@@ -28,8 +28,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   31 mins         ████████████████▓░░░░░░░░   67.17 %
-Smarty      15 mins         ████████▒░░░░░░░░░░░░░░░░   32.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
